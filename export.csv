@@ -1,0 +1,13 @@
+﻿n
+"(:PLAYER {number: 0,name: Russell Westbrook,weight: 91,age: 33,height: 1.91})"
+"(:PLAYER {number: 6,name: LeBron James,weight: 113,age: 36,height: 2.06})"
+"(:PLAYER {number: 23,name: Anthony Davis,weight: 115,age: 28,height: 2.08})"
+"(:PLAYER {number: 12,name: Ja Morant,weight: 79,age: 22,height: 1.91})"
+"(:PLAYER {number: 77,name: Luka Doncic,weight: 104,age: 22,height: 2.01})"
+"(:PLAYER {number: 6,name: Kristaps Porzingis,weight: 109,age: 26,height: 2.21})"
+"(:PLAYER {number: 7,name: Kevin Durant,weight: 109,age: 33,height: 2.08})"
+"(:PLAYER {number: 13,name: James Harden,weight: 100,age: 32,height: 1.96})"
+"(:PLAYER {number: 34,name: Giannis Antetokounmpo,weight: 110,age: 26,height: 2.11})"
+"(:PLAYER {number: 22,name: Khris Middleton,weight: 100,age: 30,height: 2.01})"
+"(:PLAYER {number: 21,name: Joel Embiid,weight: 127,age: 27,height: 2.13})"
+"(:PLAYER {number: 22,name: Tobias Harris,weight: 100,age: 29,height: 2.03})"
